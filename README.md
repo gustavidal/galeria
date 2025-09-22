@@ -1,1 +1,1 @@
-# galeria
+# galeria-aranhas
